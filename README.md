@@ -1,4 +1,6 @@
+# Node.js Hello World WebApp Pipeline 🌍
 
+This sample demonstrates a simple **Hello World** Node.js application deployed on **Azure App Service**.
 ---
 page_type: sample
 languages:
@@ -10,9 +12,7 @@ products:
 description: "This sample demonstrates a tiny Hello World Node.js app for Azure App Service."
 ---
 
-# Node.js Hello World 🌍
-
-This sample demonstrates a simple **Hello World** Node.js application deployed on **Azure App Service**.
+<img width="953" alt="portfolio" src="https://github.com/atulkamble/azure-nodejs-webapp-pipeline/blob/main/azure-nodejs-webapp-pipeline.png" />
 
 ## Table of Contents
 - [Overview](#overview)
