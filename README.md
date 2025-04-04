@@ -13,6 +13,9 @@ description: "This sample demonstrates a tiny Hello World Node.js app for Azure 
 
 This sample demonstrates a tiny Hello World node.js app for [App Service Web App](https://docs.microsoft.com/azure/app-service-web).
 
+## [azure-nodejs-webapp-pipeline](https://raw.githubusercontent.com/atulkamble/azure-nodejs-webapp-pipeline/tree/main/azure-nodejs-webapp-pipeline.png)
+
+
 ## Commands 
 
 Ref: https://learn.microsoft.com/en-us/azure/devops/pipelines/ecosystems/nodejs-tutorial?view=azure-devops
