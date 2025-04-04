@@ -12,7 +12,17 @@ products:
 description: "This sample demonstrates a tiny Hello World Node.js app for Azure App Service."
 ---
 
-<img width="953" alt="portfolio" src="https://github.com/atulkamble/azure-nodejs-webapp-pipeline/blob/main/azure-nodejs-webapp-pipeline.png" />
+---
+
+## Azure Pipeline ⚡
+
+The following image illustrates the **CI/CD pipeline** for deploying the Node.js application on Azure App Service.
+
+### [Azure Node.js Web App Pipeline](https://raw.githubusercontent.com/atulkamble/azure-nodejs-webapp-pipeline/tree/main/azure-nodejs-webapp-pipeline.png)
+
+<img width="953" alt="Azure Node.js Pipeline" src="https://github.com/atulkamble/azure-nodejs-webapp-pipeline/blob/main/azure-nodejs-webapp-pipeline.png" />
+
+---
 
 ## Table of Contents
 - [Overview](#overview)
@@ -40,17 +50,7 @@ Before getting started, ensure you have the following:
 4. **An Azure Account** - [Sign up for Free](https://azure.microsoft.com/free/)
 5. **Visual Studio Code** (Optional but recommended) - [Download Here](https://code.visualstudio.com/)
 
----
 
-## Azure Pipeline ⚡
-
-The following image illustrates the **CI/CD pipeline** for deploying the Node.js application on Azure App Service.
-
-### [Azure Node.js Web App Pipeline](https://raw.githubusercontent.com/atulkamble/azure-nodejs-webapp-pipeline/tree/main/azure-nodejs-webapp-pipeline.png)
-
-<img width="953" alt="Azure Node.js Pipeline" src="https://github.com/atulkamble/azure-nodejs-webapp-pipeline/blob/main/azure-nodejs-webapp-pipeline.png" />
-
----
 
 ## Deployment Commands 🚀
 
@@ -143,6 +143,5 @@ If you encounter an error like:
 Contributions are welcome! If you'd like to contribute, please **fork** the repository and submit a **pull request**.
 
 Happy Coding! 🚀
-```
 
 
