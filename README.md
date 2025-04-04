@@ -14,10 +14,8 @@ description: "This sample demonstrates a tiny Hello World Node.js app for Azure 
 This sample demonstrates a tiny Hello World node.js app for [App Service Web App](https://docs.microsoft.com/azure/app-service-web).
 
 ## [azure-nodejs-webapp-pipeline](https://raw.githubusercontent.com/atulkamble/azure-nodejs-webapp-pipeline/tree/main/azure-nodejs-webapp-pipeline.png)
-</p>
-<img src="https://atulkamble/azure-nodejs-webapp-pipeline/blob/main/azure-nodejs-webapp-pipeline.png" alt="Git" width="50" height="50"/>
-</p>
 
+<img width="953" alt="portfolio" src="https://github.com/atulkamble/azure-nodejs-webapp-pipeline/blob/main/azure-nodejs-webapp-pipeline.png" />
 
 ## Commands 
 
