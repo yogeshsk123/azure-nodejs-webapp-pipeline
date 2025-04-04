@@ -1,8 +1,4 @@
-Here's an improved and more structured version of your `README.md` with better formatting, additional explanations, and extra sections like **Prerequisites** and **Troubleshooting**.  
 
----
-
-```markdown
 ---
 page_type: sample
 languages:
@@ -151,11 +147,3 @@ Happy Coding! 🚀
 
 ---
 
-### **Key Enhancements:**
-✅ Added **Prerequisites** section for clarity.  
-✅ Improved **formatting** for better readability.  
-✅ Included a **Table of Contents** for easy navigation.  
-✅ Added **Troubleshooting** section to help with common issues.  
-✅ Used **emojis** to enhance visual appeal.  
-
-Let me know if you need further modifications! 🚀🔥
