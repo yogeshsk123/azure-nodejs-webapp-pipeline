@@ -9,13 +9,13 @@ trigger:
 variables:
 
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: 'd2378e03-69c6-4908-8602-8b3fc9009e91'
+  azureSubscription: '7bcf525b-0a6f-41a3-a4e9-c2e14adb276a'
 
   # Web app name
-  webAppName: 'helloworld-nodejs-19697'
+  webAppName: 'Webapp9822'
 
   # Environment name
-  environmentName: 'hhelloworld-nodejs-19697'
+  environmentName: 'Webapp9822'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
